@@ -1,0 +1,1 @@
+/home/soumyarp/code/rust/learn/collections/practice/avg/target/release/libavg.rlib: /home/soumyarp/code/rust/learn/collections/practice/avg/src/average.rs /home/soumyarp/code/rust/learn/collections/practice/avg/src/lib.rs
